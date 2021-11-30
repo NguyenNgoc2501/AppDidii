@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/01629/AndroidStudioProjects/Didii/app/src/main/res/drawable/button_3state.xml" value="0.22512820512820514" />
+        <entry key="..\:/Users/01629/AndroidStudioProjects/Didii/app/src/main/res/drawable/button_color.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/01629/AndroidStudioProjects/Didii/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22512820512820514" />
+        <entry key="..\:/Users/01629/AndroidStudioProjects/Didii/app/src/main/res/drawable/ps__button_flat_instagram_2.xml" value="0.22512820512820514" />
+        <entry key="..\:/Users/01629/AndroidStudioProjects/Didii/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/01629/AndroidStudioProjects/Didii/app/src/main/res/layout/activity_main_activity2_dky.xml" value="0.25" />
+        <entry key="..\:/Users/01629/AndroidStudioProjects/Didii/app/src/main/res/layout/activity_main_activity3_trangchu.xml" value="0.25" />
+        <entry key="..\:/Users/01629/AndroidStudioProjects/Didii/app/src/main/res/layout/activity_main_activity4_diadiem.xml" value="0.22" />
+        <entry key="..\:/Users/01629/AndroidStudioProjects/Didii/app/src/main/res/layout/activity_main_activity4_diadiemin.xml" value="0.22" />
+        <entry key="..\:/Users/01629/AndroidStudioProjects/Didii/app/src/main/res/layout/activity_main_activity4_diadiemout.xml" value="0.25" />
+        <entry key="..\:/Users/01629/AndroidStudioProjects/Didii/app/src/main/res/layout/activity_main_activity5_in_hagiang.xml" value="0.22" />
+        <entry key="..\:/Users/01629/AndroidStudioProjects/Didii/app/src/main/res/layout/activity_main_me.xml" value="0.25" />
+        <entry key="..\:/Users/01629/AndroidStudioProjects/Didii/app/src/main/res/layout/activity_main_mytour.xml" value="0.25" />
+        <entry key="..\:/Users/01629/AndroidStudioProjects/Didii/app/src/main/res/layout/activity_main_news.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
